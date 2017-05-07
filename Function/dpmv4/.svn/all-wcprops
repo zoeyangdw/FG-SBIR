@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4
+END
+compile.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/compile.m
+END
+clipboxes.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/clipboxes.m
+END
+flipfeat.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/flipfeat.m
+END
+getdetections.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/getdetections.cc
+END
+parsemodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/parsemodel.m
+END
+getComputerName.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/getComputerName.m
+END
+featpyramid.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/featpyramid.m
+END
+learn
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/learn
+END
+features.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/features.cc
+END
+HOGpicture.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/HOGpicture.m
+END
+getdetections.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/getdetections.mexa64
+END
+model_addfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_addfilter.m
+END
+model_addnonterminal.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_addnonterminal.m
+END
+trainval.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/trainval.m
+END
+model_addparts.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_addparts.m
+END
+model_addmirroredfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_addmirroredfilter.m
+END
+learnfast
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/learnfast
+END
+bboxpred_input.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/bboxpred_input.m
+END
+rescore_labels.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/rescore_labels.m
+END
+features.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/features.mexa64
+END
+subarray.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/subarray.m
+END
+learn.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/learn.cc
+END
+gdetectwrite.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/gdetectwrite.m
+END
+resize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/resize.cc
+END
+visualizemodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/visualizemodel.m
+END
+lrmodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/lrmodel.m
+END
+model_addrule.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_addrule.m
+END
+pascal_train.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/pascal_train.m
+END
+mergemodels.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/mergemodels.m
+END
+fconv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/fconv.cc
+END
+model_sort.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_sort.m
+END
+getcontextlabels.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/getcontextlabels.m
+END
+resize.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/resize.mexa64
+END
+pascal_eval.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/pascal_eval.m
+END
+train.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/train.m
+END
+process.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/process.m
+END
+fconvsse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/fconvsse.cc
+END
+gdetect.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/gdetect.m
+END
+procid.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/procid.m
+END
+showboxes.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/showboxes.m
+END
+model_create.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_create.m
+END
+fconv.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/fconv.mexa64
+END
+initmodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/initmodel.m
+END
+demo.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/demo.m
+END
+pascal_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/pascal_init.m
+END
+bboxpred_rescore.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/bboxpred_rescore.m
+END
+writecomponentinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/writecomponentinfo.m
+END
+rescore_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/rescore_data.m
+END
+rules_with_lhs.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/rules_with_lhs.m
+END
+split.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/split.m
+END
+warppos.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/warppos.m
+END
+readmodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/readmodel.m
+END
+convall.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/convall.m
+END
+bboxpred_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/bboxpred_data.m
+END
+dt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/dt.cc
+END
+rescore_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/rescore_test.m
+END
+bboxpred_train.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/bboxpred_train.m
+END
+writeheader.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/writeheader.m
+END
+fconvMT.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/fconvMT.cc
+END
+getpadding.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/getpadding.m
+END
+kernel_features.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/kernel_features.cc
+END
+initrand.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/initrand.m
+END
+labeldata.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/labeldata.m
+END
+visualizeHOG.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/visualizeHOG.m
+END
+writemodel.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/writemodel.m
+END
+color.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/color.m
+END
+dt.mexa64
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/dt.mexa64
+END
+add_clustering_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/add_clustering_data.m
+END
+boxoverlap.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/boxoverlap.m
+END
+croppos.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/croppos.m
+END
+mkpartfilters.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/mkpartfilters.m
+END
+writelob.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/writelob.m
+END
+lrsplit.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/lrsplit.m
+END
+imreadx.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/imreadx.m
+END
+pascal_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/25/codes/SSDPM/code/dpmv4/pascal_data.m
+END
+nms.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/nms.m
+END
+model_addsymbol.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_addsymbol.m
+END
+rescore_train.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/rescore_train.m
+END
+model_setdetwindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_setdetwindow.m
+END
+pascal_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/pascal_test.m
+END
+pascal.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/pascal.m
+END
+bboxpred_get.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/bboxpred_get.m
+END
+imgdetect.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/imgdetect.m
+END
+fconvblas.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/fconvblas.cc
+END
+learnfast.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/learnfast.cc
+END
+reduceboxes.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/reduceboxes.m
+END
+rewritedat.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/rewritedat.m
+END
+foldHOG.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/foldHOG.m
+END
+model_addblock.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/model_addblock.m
+END
+readinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/~azizpour/!svn/ver/11/codes/SSDPM/code/dpmv4/readinfo.m
+END
