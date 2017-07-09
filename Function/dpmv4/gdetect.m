@@ -69,6 +69,21 @@ for level = model.interval+1:length(pyra.scales)
   S = [S; score(tmpI)];
 end
 
+if isempty(X) && isempty(Y) 
+    thresh = -1.75;
+    for level = model.interval+1:length(pyra.scales)
+        score = model.symbols(model.start).score{level};
+        tmpI = find(score > thresh);
+        [tmpY, tmpX] = ind2sub(size(score), tmpI);
+        X = [X; tmpX];
+        Y = [Y; tmpY];
+        I = [I; tmpI];
+        L = [L; level*ones(length(tmpI), 1)];
+        S = [S; score(tmpI)];
+    end
+end
+thresh = -1.5;
+
 [ign, ord] = sort(S, 'descend');
 % only return the highest scoring example in latent mode
 % (the overlap requirement has already been enforced)

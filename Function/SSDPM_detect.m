@@ -21,7 +21,7 @@ bbox = gt_bgf_bbox(model,im,boxes);
 %     hold on;
 %     x1 = box(1); x2 = box(3);
 %     y1 = box(2); y2 = box(4);
-%     plot([x1 x1 x2 x2 x1], [y1 y2 y2 y1 y1], '--', 'LineWidth', 2, 'Color', color(i,:));
+%     plot([x1 x1 x2 x2 x1], [y1 y2 y2 y1 y1],  'LineWidth', 1.5, 'Color', color(i,:));
 %     
 % end
 % hold off;

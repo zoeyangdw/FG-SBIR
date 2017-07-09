@@ -1,0 +1,13 @@
+function final = trans_image(im)
+gray = rgb2gray(im);
+[a,b] = find(gray<255);
+leftmost = min(b);
+rightmost = max(b);
+topmost = min(a);
+bottommost = max(a);
+imBdBox = im(topmost:bottommost, leftmost:rightmost,:);
+[c,d,k] = size(imBdBox);
+imBdBoxTrans=imresize(imBdBox, [64*c/d,64]);
+[e,f,k] = size(imBdBoxTrans);
+final =uint8( ones(256,128,3)*255);
+final( (floor((256-e)/2+1)):floor((256+e)/2) ,33:96,:)=imBdBoxTrans;

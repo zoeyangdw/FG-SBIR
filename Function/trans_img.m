@@ -41,12 +41,13 @@ else
         bottommost = max(a);
         imBdBox = img(topmost:bottommost, leftmost:rightmost);
         %imshow(imBdBox);
-        imBdBox_trans = imresize(imBdBox, [HEIGHT, (HEIGHT/(bottommost-topmost))*(rightmost-leftmost)]);
-        trans_width = (HEIGHT/(bottommost-topmost))*(rightmost-leftmost);
+        imBdBox_trans = imresize(imBdBox, [HEIGHT, floor((HEIGHT/(bottommost-topmost))*(rightmost-leftmost))]);
+        trans_width = floor((HEIGHT/(bottommost-topmost))*(rightmost-leftmost));
         im_final = uint8(ones(height,width)*255);
         %im_final = ones(128,256)*255;
-        im_final(floor((height-HEIGHT)/2+1):floor(height-(height-HEIGHT)/2), floor(height-trans_width/2):floor((height-trans_width/2))+trans_width)=imBdBox_trans;
-        %imshow(im_final);
+        a = im_final(floor((height-HEIGHT)/2+1):floor(height-(height-HEIGHT)/2), floor((width-trans_width)/2+1):floor((width-trans_width)/2+trans_width));
+        im_final(floor((height-HEIGHT)/2+1):floor(height-(height-HEIGHT)/2), floor((width-trans_width)/2+1):floor((width-trans_width)/2+trans_width))=imBdBox_trans;
+       % imshow(im_final);
     else
         gray = rgb2gray(img);
         [a,b] = find(gray<255);
@@ -56,11 +57,11 @@ else
         bottommost = max(a);
         imBdBox = img(topmost:bottommost, leftmost:rightmost,:);
         %imshow(imBdBox);
-        imBdBox_trans = imresize(imBdBox, [HEIGHT, (HEIGHT/(bottommost-topmost))*(rightmost-leftmost)]);
-        trans_width = (HEIGHT/(bottommost-topmost))*(rightmost-leftmost);
+        imBdBox_trans = imresize(imBdBox, [HEIGHT, floor((HEIGHT/(bottommost-topmost))*(rightmost-leftmost))]);
+        trans_width = floor((HEIGHT/(bottommost-topmost))*(rightmost-leftmost));
         im_final = uint8(ones(height,width,k)*255);
         %im_final = ones(128,256)*255;
-        im_final(floor((height-HEIGHT)/2+1):floor(height-(height-HEIGHT)/2), floor(height-trans_width/2):floor((height-trans_width/2))+trans_width, :)=imBdBox_trans;
+        im_final(floor((height-HEIGHT)/2+1):floor(height-(height-HEIGHT)/2), floor((width-trans_width)/2+1):floor((width-trans_width)/2+trans_width), :)=imBdBox_trans;
         %imshow(im_final);
     end
 end
